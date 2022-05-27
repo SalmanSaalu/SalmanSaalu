@@ -20,8 +20,6 @@
 [instagram]:https://www.instagram.com/_sa_lmn__/
 [discord]:https://discordapp.com/users/728447035648245780
 
-
-<br>
 ### Languages and Tools:
 
 <code><img align="left" alt="Visual Studio Code" width="26px" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/vscode/vscode-original.svg" style="padding-right:10px;" /></code>
