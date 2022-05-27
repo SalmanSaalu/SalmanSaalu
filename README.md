@@ -37,6 +37,10 @@
 <code><img height="30" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/react/react-original.svg"></code> 
 
 
+### Hosted Projects
+
+-  1.http://merchshop2022.herokuapp.com/
+-  2.https://ecertificate-creator.herokuapp.com/
 
 ### Connect with me:
 
@@ -51,10 +55,7 @@
 [discord]:https://discordapp.com/users/728447035648245780
 
 
-### Hosted Projects
 
--  1.http://merchshop2022.herokuapp.com/
--  2.https://ecertificate-creator.herokuapp.com/
 
 
 
