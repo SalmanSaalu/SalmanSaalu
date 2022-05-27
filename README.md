@@ -1,7 +1,7 @@
 
 # 🤝🏻 MAY I HELP YOU..
 ## Hi there, I'm SALMAN  👋 
-## I'm a Under_Graduate & Developerr!!
+## I'm a Under_Graduate & Developer!!
 
 - 👨🏻‍💻 Backend Developer familiar with python. 
 - 🌱 I’m currently learning ReactJs 
@@ -10,7 +10,7 @@
 - 📺 Hobbies: Watching Dramas & Tv series 
 
 
-### Languages and Tools:
+### Familiar Languages and Tools:
 
 <code><img height="30" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/html/html.png"></code> 
 &nbsp;&nbsp;
@@ -18,15 +18,21 @@
 &nbsp;&nbsp;
 <code><img height="30" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/javascript/javascript.png"></code> 
 &nbsp;&nbsp;
-<code><img height="30" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/react/react-original.svg"></code> 
-&nbsp;&nbsp;
 <code><img height="30" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/python/python.png"></code> 
 &nbsp;&nbsp;
 <code><img height="30" src="https://logodix.com/logo/1758841.png"></code> 
 &nbsp;&nbsp;
 <code><img height="30" src="https://cdn3.iconfinder.com/data/icons/social-media-2169/24/social_media_social_media_logo_git-512.png"></code> 
 &nbsp;&nbsp;
+<code><img height="30" src="https://github.com/devicons/devicon/blob/v2.15.1/icons/postgresql/postgresql-plain-wordmark.svg"></code>
+&nbsp;&nbsp;
 <code><img height="30" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/vscode/vscode-original.svg"></code>
+&nbsp;&nbsp;
+<code><img height="30" src="https://github.com/devicons/devicon/blob/v2.15.1/icons/github/github-original.svg"></code>
+&nbsp;&nbsp;
+<code><img height="30" src="https://github.com/devicons/devicon/blob/v2.15.1/icons/heroku/heroku-plain.svg"></code>
+&nbsp;&nbsp;
+<code><img height="30" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/react/react-original.svg"></code> 
 
 
 
