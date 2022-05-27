@@ -37,7 +37,7 @@
 
 
 ### Connect with me:
-
+[<img align="left" alt="ilyas | Instagram" width="28px" src="https://img.icons8.com/color/48/000000/gmail.png" />][salmanpp05@gmail.com]
 [<img align="left" alt="ilyas | Instagram" width="28px" src="https://img.icons8.com/fluency/48/000000/instagram-new.png" />][instagram]
 [<img style="filter: invert()" align="left" alt="ilyas | Twitter" width="28px" src="https://img.icons8.com/color/48/000000/twitter.png"/>][twitter]
 [<img align="left" alt="ilyas | LinkedIn" width="28px" src="https://img.icons8.com/color/48/000000/linkedin.png" />][linkedin]
