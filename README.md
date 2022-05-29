@@ -52,7 +52,7 @@
 [twitter]:https://twitter.com/salmn47214466
 [linkedin]:https://www.linkedin.com/in/salman-pp-340598238/
 [instagram]:https://www.instagram.com/_sa_lmn__/
-[discord]:https://discordapp.com/users/728447035648245780
+[discord]:https://discordapp.com/users/758727425365901364
 
 
 
