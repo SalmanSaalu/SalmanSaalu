@@ -1,3 +1,4 @@
+<p align="right"> <img src="https://komarev.com/ghpvc/?username=ilyasbabu&color=green&style=flat-square" alt="ilyasbabu" /> </p>
 
 ```diff
 -  🤝🏻 MAY I HELP YOU...
@@ -53,7 +54,6 @@
 [linkedin]:https://www.linkedin.com/in/salman-pp-340598238/
 [instagram]:https://www.instagram.com/_sa_lmn__/
 [discord]:https://discordapp.com/users/758727425365901364
-
 
 
 
