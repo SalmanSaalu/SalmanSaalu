@@ -6,7 +6,7 @@
 ## Hi there, I'm SALMAN  👋 
 ## I'm a Under_Graduate & Developer!!
 
-- 👨🏻‍💻 Backend Developer familiar with python. 
+- 👨🏻‍💻 Backend Developer familiar with python django. 
 - 🌱 I’m currently learning ReactJs 
 - 😊 I’m happy to collaborate.
 - 📈 2022 Goals: Skill & Career developments.
@@ -42,6 +42,7 @@
 
 -  1.http://merchshop2022.herokuapp.com/
 -  2.https://ecertificate-creator.herokuapp.com/
+-  3.https://quizbuilder2022.herokuapp.com/
 
 ### Connect with me:
 
