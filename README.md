@@ -34,6 +34,7 @@
 <code><img height="30" src="https://github.com/devicons/devicon/blob/v2.15.1/icons/github/github-original.svg"></code>
 &nbsp;&nbsp;
 <code><img height="30" src="https://github.com/devicons/devicon/blob/v2.15.1/icons/heroku/heroku-plain.svg"></code>
+&nbsp;&nbsp;
 <code><img height="30" src="https://github.com/devicons/devicon/blob/v2.15.1/icons/python/python-original.svg"></code>
 &nbsp;&nbsp;
 <code><img height="30" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/react/react-original.svg"></code> 
