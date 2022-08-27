@@ -1,4 +1,4 @@
-<p align="right"> <img src="https://komarev.com/ghpvc/?username=ilyasbabu&color=green&style=flat-square" alt="ilyasbabu" /> </p>
+<p align="right"> <img src="https://komarev.com/ghpvc/?username=salman&color=green&style=flat-square" alt="salman" /> </p>
 
 ```diff
 -  🤝🏻 MAY I HELP YOU...
@@ -12,7 +12,7 @@
 - 📈 2022 Goals: Skill & Career developments.
 - 📺 Hobbies: Watching Dramas & Tv series 
 - ✉️ Available: salmanpp05@gmail.com 
-
+-  @  Resume: https://drive.google.com/file/d/1SY0vAuJ8w4yCl-SplWhKMNf_rf2TRkTj/view?usp=sharing
 ### Familiar Languages and Tools:
 
 <code><img height="30" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/html/html.png"></code> 
