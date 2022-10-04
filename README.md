@@ -40,9 +40,9 @@
 
 ### Hosted Projects
 
--  1.http://merchshop2022.herokuapp.com/
--  2.https://ecertificate-creator.herokuapp.com/
--  3.https://quizbuilder2022.herokuapp.com/
+-  1.merchshop : An ecommerce website
+-  2.ecertificate-creator : An online certificate generator
+-  3.quiz builder : A simple quiz web app
 
 ### Connect with me:
 
